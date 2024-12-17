@@ -6,3 +6,6 @@ I would like to make telegram bot for API and use it for I/O method instead WEB 
 So i make a desicion to learn GO lang and try remade it with GO.
 
 At this stage, the API is fully functional and can be used on its own.
+
+`dumper.bat` -> make dumpfile from postgresql container
+`restorer.bat` -> restore information from dumpfile into psql container
